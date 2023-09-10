@@ -17,3 +17,10 @@
 .nav-link-text {
     color: black;
 }
+.site-title{
+    font-size: 30px;
+    color: rgb(36, 202, 188);
+    font-weight: 700;
+    margin: 1em 0em;
+
+}
